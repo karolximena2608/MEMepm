@@ -40,5 +40,3 @@ function ()
     Prob = percent(Probability, 2)
     print(paste("Probabilidad de default ", ASIC, ":", Prob))
   }
-\keyword{ ~DefaultMEM }
-
